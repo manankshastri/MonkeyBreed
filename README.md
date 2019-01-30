@@ -4,6 +4,6 @@ Number of classes: 10
 
 Total Images: 1369
 
-Dataset: Folder containing the images. There are two folders inside - train and validation.
+trained_model: Folder containing trained models.
 
-Check: Folder containing images for testing
+check: Folder containing images for testing
