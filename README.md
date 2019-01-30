@@ -1,8 +1,8 @@
-# Monkey Breed Classification
+# Monkey Breed Classification using MobileNet
 
 Number of classes: 10
 
-Total Images: 1360
+Total Images: 1369
 
 Dataset: Folder containing the images. There are two folders inside - train and validation.
 
