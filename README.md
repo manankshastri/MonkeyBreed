@@ -1,9 +1,11 @@
 # Monkey Breed Classification using MobileNet
 
-Number of classes: 10
+<b>Number of classes:</b> 10
 
-Total Images: 1369
+<b>Total Images:</b> 1369
 
-trained_model: Folder containing trained models.
+<b>trained_model:</b> Folder containing trained models.
 
-check: Folder containing images for testing
+<b>check:</b> Folder containing images for testing
+
+<a href="https://www.kaggle.com/slothkong/10-monkey-species">Dataset</a>
